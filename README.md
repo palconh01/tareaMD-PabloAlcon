@@ -100,3 +100,6 @@ prueba.
 ### Prueba final
 
 prueba
+### Imagen con enlace externo
+
+[![prueba](images/captura.png)](https://github.com)
