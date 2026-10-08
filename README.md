@@ -103,3 +103,8 @@ prueba
 ### Imagen con enlace externo
 
 [![prueba](images/captura.png)](https://github.com)
+
+
+### Enlace a guia.md
+
+[prueba](guia.md)
